@@ -1,0 +1,21 @@
+form {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  height: 38px;
+  margin-bottom: 80px;
+}
+
+select,
+input,
+button {
+  font-family: 'Fredoka One', cursive;
+  border-radius: 8px;
+  border: none;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+button {
+  cursor: pointer;
+}
